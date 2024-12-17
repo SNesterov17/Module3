@@ -15,5 +15,4 @@ print(is_contains('Urban', ['ban', 'BaNaN', 'urBAN']))
 print(is_contains('cycle', ['recycling', 'cyclic']))
 print(is_contains('циркуль', ['циркуляр', 'циркуляция']))
 print(is_contains('Русло', ['карусель', 'РуСЛО', 'Кресло']))
-
 print(calls)

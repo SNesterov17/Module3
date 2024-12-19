@@ -1,5 +1,3 @@
-
-
 def send_email(message, recipient,*, sender = "university.help@gmail.com"):
     while 1 > 0:
         if "@" not in recipient or "@" not in sender:

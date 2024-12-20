@@ -11,6 +11,3 @@ print_params()
 print_params(*values_list)
 print_params(**values_dict)
 print_params(*values_list_2, 42)
-
-
-
